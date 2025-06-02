@@ -6,3 +6,4 @@ print("The sum is:  ", sum)
 ###
 ###345
 60
+7
