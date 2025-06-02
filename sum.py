@@ -5,5 +5,5 @@ sum = int(a) + int(b)
 print("The sum is:  ", sum)
 ###
 ###345
-60
+60s
 7
