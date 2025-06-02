@@ -8,3 +8,4 @@ print("The sum is:  ", sum)
 60s
 7
 s
+s
